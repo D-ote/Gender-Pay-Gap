@@ -1,5 +1,7 @@
 # Gender-Pay-Gap
 
+[![image alt](https://github.com/D-ote/Gender-Pay-Gap/blob/main/Screenshot%202025-02-23%20at%2011.28.16.png)](https://public.tableau.com/app/profile/dooter.ior/viz/GenderPayGapUS-UK/Dashboard1)
+
 ### Introduction
 The gender pay gap is a significant issue that persists globally, with women often earning less than men for performing similar work. This report presents an analysis of gender pay gap data from the United States (US) and the United Kingdom (UK). [The dataset](https://docs.google.com/spreadsheets/d/1Qih5qBcuTntLbx7G7BzunRSOgGD0b_zc07sTzqiKGn4/edit#gid=1275614270) includes information on annual salaries for both women and men, pay differences in amounts and percentages, and explores various job categories to identify trends and disparities. The findings from this analysis have been summarized into an interactive dashboard on [Tableau Public](https://public.tableau.com/app/profile/dooter.ior/viz/GenderPayGapUS-UK/Dashboard1).
 
